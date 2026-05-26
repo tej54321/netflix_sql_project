@@ -1,5 +1,5 @@
 # Data Analysis using SQL 
-##Netflix Movies and TV Shows 
+## Netflix Movies and TV Shows 
 
 ![](https://github.com/tej54321/netflix_sql_project/blob/main/logo.png)
 
